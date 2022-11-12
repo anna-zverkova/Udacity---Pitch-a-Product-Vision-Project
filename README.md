@@ -37,10 +37,13 @@ Looking knowledgeable means knowing your material. If it seems like you’re jus
 Looking positive means sounding like you believe in this product. You need to be the cheerleader of your product because no one else will. When you talk about your product you should sound positive, excited and happy. This is based on product management and it’s the key to getting your ideas approved as opposed to always working on someone else’s ideas.
 
 Submission Requirements:
-A PDF copy of your final Product Pitch (see template from the link above or download PPT file from the resources section)- https://video.udacity-data.com/topher/2019/October/5d93921e_product-pitch-template/product-pitch-template.pptx
-A 10-minute video presenting an overview of the product opportunity for an executive stakeholder
-Check out the Rubric for this project - https://review.udacity.com/#!/rubrics/2696/view
+- A PDF copy of your final Product Pitch (see template from the link above or download PPT file from the resources section)- https://video.udacity-data.com/topher/2019/October/5d93921e_product-pitch-template/product-pitch-template.pptx
+
+- A 10-minute video presenting an overview of the product opportunity for an executive stakeholder
+
+- Check out the Rubric for this project - https://review.udacity.com/#!/rubrics/2696/view
 
 Suggestions to Make Your Project Stand Out!
-Deliver a partnerships slide discussing which 3rd party partners this product may want to connect with
-Deliver a Go-To-Market slide discussing how the product will be introduced to the market and the characteristics of the ideal customer
+
+- Deliver a partnerships slide discussing which 3rd party partners this product may want to connect with.
+- Deliver a Go-To-Market slide discussing how the product will be introduced to the market and the characteristics of the ideal customer.
